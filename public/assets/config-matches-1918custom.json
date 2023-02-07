@@ -131,11 +131,11 @@
           "max": 3
         },
         {
-          "name": "Mechanical Failures",
-          "type": "text"
+          "name": "What did the robot do well?",
+          "type": "textarea"
         },
         {
-          "name": "Comments",
+          "name": "list any issues that the robot had",
           "type": "textarea"
         }
       ]
